@@ -1,1 +1,1 @@
-teste git vendo aonde esta
+deleta pasta cache
