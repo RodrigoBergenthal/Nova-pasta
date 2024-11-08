@@ -1,1 +1,1 @@
-deletei a pasta cache antes e att json
+deletei a pasta cache antes e att json , mesmo erro
