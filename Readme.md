@@ -1,1 +1,2 @@
-teste git vendo aonde esta
+deletei a pasta cache antes e att json , mesmo erro
+Att
